@@ -7,6 +7,6 @@ public class Carbonara extends Pizza {
         super(name);
     }
 
-    ArrayList<Ingredient> CARBO = new ArrayList<Ingredient>();
+
 
 }
